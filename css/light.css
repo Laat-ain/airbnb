@@ -1,9 +1,16 @@
 :root {
   --body-color: #ffffff; /* общий фон */
-
-
   --title-color: #222222; /* цвет заголовков */
-  --subtitle-color: #42526B;/* цвет подзаголовков */
+  --hov-language-before: #F7F7F7;
+  --subtitle-color: #42526B; /* цвет подзаголовков */ 
+  --hov-modal-button: #f7f7f7;
+  --foc-modal-button: 1px solid #222222;
+  --hov-close-button:#f7f7f7;
+
+  --bg-tabs:#EBEBEB;
+  --bg-active-tabs:#FFFFFF;
+  --br-tabs__btn--active: 2px solid #222222;
+
 
   --nav-link-color: #222222; /* цвет ссылок в навигации */
 
