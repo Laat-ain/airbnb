@@ -1,8 +1,15 @@
 :root {
   --body-color: #292929; /* общий фон */
-
   --title-color: #ffffff; /* цвет заголовков */
+  --hov-language-before: #545252;
   --subtitle-color: #B4BBC5;/* цвет подзаголовков */
+  --hov-modal-button: #545252;
+  --foc-modal-button: 1px solid #B4BBC5;
+  --hov-close-button:#545252;
+
+  --bg-tabs:#545252;
+  --bg-active-tabs: #292929;
+  --br-tabs__btn--active: 2px solid #B4BBC5;
 
   --nav-link-color: #ffffff; /* цвет ссылок в навигации */
 
