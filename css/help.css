@@ -1,3 +1,50 @@
 .help {
   padding-top: 32px;
+  max-width: 1064px;
+  margin: 0 auto;
 }
+
+.info-guide{
+	display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.flex-card-guides{
+	display: flex;
+	justify-content: space-between;
+}
+
+.al-topics{
+	display: inline-flex;
+    align-items: center;
+	text-decoration: none;
+	color: var(--title-color);
+	font-weight: 500;
+	font-size: 14px;
+}
+
+.card-guides{
+	width: 254px;
+}
+
+.card-guides img{
+	border-radius: 12px;
+    margin-bottom: 15px;
+
+	object-fit: cover;
+	height: 254px;
+	width: 100%;
+}
+
+.card-guides a{
+	text-decoration: none;
+	width: 254px;
+}
+
+.card-guides p{
+	color: var(--title-color);
+	font-weight: 500;
+	font-size: 17px;
+}
+
